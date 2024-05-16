@@ -1,0 +1,15 @@
+C:\Users\s4tAnonymous\source\repos\LetsTryToCountAndStuff\LetsTryToCountAndStuff\bin\Debug\net6.0\LetsTryToCountAndStuff.exe
+C:\Users\s4tAnonymous\source\repos\LetsTryToCountAndStuff\LetsTryToCountAndStuff\bin\Debug\net6.0\LetsTryToCountAndStuff.deps.json
+C:\Users\s4tAnonymous\source\repos\LetsTryToCountAndStuff\LetsTryToCountAndStuff\bin\Debug\net6.0\LetsTryToCountAndStuff.runtimeconfig.json
+C:\Users\s4tAnonymous\source\repos\LetsTryToCountAndStuff\LetsTryToCountAndStuff\bin\Debug\net6.0\LetsTryToCountAndStuff.dll
+C:\Users\s4tAnonymous\source\repos\LetsTryToCountAndStuff\LetsTryToCountAndStuff\bin\Debug\net6.0\LetsTryToCountAndStuff.pdb
+C:\Users\s4tAnonymous\source\repos\LetsTryToCountAndStuff\LetsTryToCountAndStuff\obj\Debug\net6.0\LetsTryToCountAndStuff.csproj.AssemblyReference.cache
+C:\Users\s4tAnonymous\source\repos\LetsTryToCountAndStuff\LetsTryToCountAndStuff\obj\Debug\net6.0\LetsTryToCountAndStuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s4tAnonymous\source\repos\LetsTryToCountAndStuff\LetsTryToCountAndStuff\obj\Debug\net6.0\LetsTryToCountAndStuff.AssemblyInfoInputs.cache
+C:\Users\s4tAnonymous\source\repos\LetsTryToCountAndStuff\LetsTryToCountAndStuff\obj\Debug\net6.0\LetsTryToCountAndStuff.AssemblyInfo.cs
+C:\Users\s4tAnonymous\source\repos\LetsTryToCountAndStuff\LetsTryToCountAndStuff\obj\Debug\net6.0\LetsTryToCountAndStuff.csproj.CoreCompileInputs.cache
+C:\Users\s4tAnonymous\source\repos\LetsTryToCountAndStuff\LetsTryToCountAndStuff\obj\Debug\net6.0\LetsTryToCountAndStuff.dll
+C:\Users\s4tAnonymous\source\repos\LetsTryToCountAndStuff\LetsTryToCountAndStuff\obj\Debug\net6.0\refint\LetsTryToCountAndStuff.dll
+C:\Users\s4tAnonymous\source\repos\LetsTryToCountAndStuff\LetsTryToCountAndStuff\obj\Debug\net6.0\LetsTryToCountAndStuff.pdb
+C:\Users\s4tAnonymous\source\repos\LetsTryToCountAndStuff\LetsTryToCountAndStuff\obj\Debug\net6.0\LetsTryToCountAndStuff.genruntimeconfig.cache
+C:\Users\s4tAnonymous\source\repos\LetsTryToCountAndStuff\LetsTryToCountAndStuff\obj\Debug\net6.0\ref\LetsTryToCountAndStuff.dll
