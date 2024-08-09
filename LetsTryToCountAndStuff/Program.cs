@@ -1,4 +1,3 @@
-﻿
 #region CODE FROM COPILOT NOT USING
 //using System;
 //using System.Collections;
@@ -47,7 +46,9 @@
 //}
 #endregion
 
+using System.Collections.Specialized;
 using System.Globalization;
+using System.Text;
 
 class Program
 {
@@ -131,7 +132,51 @@ class Program
         ReverseStrings.chkPalindrome("palindrome");
         Console.WriteLine(" ");
         Console.ForegroundColor = ConsoleColor.White;
+
+
+        Console.ForegroundColor = ConsoleColor.Yellow;
+        Console.WriteLine("#####################################################");
+        Console.WriteLine("  TRY TO MAKE THE TRIANGLE WITH * AND SPACES  ");
+        Console.WriteLine("#####################################################");
+        Console.ForegroundColor = ConsoleColor.Green;
+
+        GetStarsAndSpaces(5);
+        Console.ForegroundColor = ConsoleColor.White;
         Console.ReadLine();
+    }
+
+    internal static void GetStarsAndSpaces(int N)
+    {
+        char star = '*';
+        char space = ' ';
+        string starSpace = "* ";
+        int X = N - 1;
+        var sb = new StringBuilder();
+        string newLine = string.Empty;
+        string newLine2 = string.Empty;
+
+        for (int i = 0; i < N; i++)
+        {
+            if (i == 0)
+            {
+                Console.ForegroundColor = ConsoleColor.Cyan;
+                newLine = $"{new string(space, X)}{star}";
+                Console.WriteLine(newLine);
+            }
+
+            if (i > 0 && (X >= i))
+            {
+                newLine = $"{new string(space, X - i)}{starSpace}";
+                StringBuilder sb2 = new StringBuilder(newLine);
+                for (int j = 0; j < i; j++)
+                {
+                    sb2.Append(starSpace);
+                    newLine2 = sb2.ToString();
+                }
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine(newLine2);
+            }
+        }
     }
 }
 
@@ -272,7 +317,7 @@ public static class ReverseStrings
         }
         else
             Console.WriteLine("Not Palindrome");
-            Console.WriteLine("");
+        Console.WriteLine("");
     }
 
     /*
@@ -321,5 +366,4 @@ public static class ReverseStrings
         //}
         //Console.WriteLine(reverseSentence.ToString());
     }
-
 }
